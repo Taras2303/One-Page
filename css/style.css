@@ -11,5 +11,8 @@
     margin-left: 30px; }
     .banner a:hover {
       color: #10c9c3; }
+  .banner .card {
+    background-color: red;
+    border: none; }
 
 /*# sourceMappingURL=style.css.map */
